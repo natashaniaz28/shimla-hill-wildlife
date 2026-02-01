@@ -1,0 +1,485 @@
+[
+  {
+    "id": "kalij-pheasant",
+    "commonName": "Kalij Pheasant",
+    "scientificName": "Lophura leucomelanos",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "The Kalij Pheasant is a forest-dwelling pheasant commonly found in dense forests and thickets, particularly in the Himalayan foothills.",
+
+    "distribution": "Nepal, Pakistan, and parts of Western Thailand",
+
+    "habitat": "Forests and dense thickets",
+
+    "breeding": {
+      "season": "April to June",
+      "incubationPeriod": "24–25 days",
+      "clutchSize": "6–9 eggs"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/kalij_pheasant_1.jpg"
+    ]
+  },
+
+  {
+    "id": "ring-necked-pheasant",
+    "commonName": "Ring-necked Pheasant",
+    "scientificName": "Phasianus colchicus",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "The Ring-necked Pheasant is a widely known pheasant species native to Asia and commonly found in grasslands and farmlands.",
+
+    "distribution": "Thailand, Eastern and Southern China",
+
+    "habitat": "Grasslands, agricultural areas",
+
+    "breeding": {
+      "season": "April to June",
+      "incubationPeriod": "22–27 days",
+      "clutchSize": "8–18 eggs"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/ring_necked_pheasant_1.jpg"
+    ]
+  },
+
+  {
+    "id": "silver-pheasant",
+    "commonName": "Silver Pheasant",
+    "scientificName": "Lophura nycthemera",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "The Silver Pheasant is a striking bird species found in forested regions of Southeast Asia.",
+
+    "distribution": "Southeast Asia, Thailand, Northeastern Myanmar, Eastern and Southern China",
+
+    "habitat": "Forested regions",
+
+    "breeding": {
+      "season": "February to May",
+      "incubationPeriod": "24–26 days",
+      "clutchSize": "6–15 eggs"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/silver_pheasant_1.jpg"
+    ]
+  },
+
+  {
+    "id": "lady-amhersts-pheasant",
+    "commonName": "Lady Amherst’s Pheasant",
+    "scientificName": "Chrysolophus amherstiae",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "Lady Amherst’s Pheasant is a colorful species belonging to the family Phasianidae and is native to parts of China and Myanmar.",
+
+    "distribution": "Southwestern China and Northern Myanmar",
+
+    "habitat": "Forested mountainous areas",
+
+    "breeding": {
+      "season": "March to April",
+      "incubationPeriod": "23–24 days",
+      "clutchSize": "10–15 eggs"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/lady_amhersts_pheasant_1.jpg"
+    ]
+  },
+
+  {
+    "id": "golden-pheasant",
+    "commonName": "Golden Pheasant",
+    "scientificName": "Chrysolophus pictus",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "The Golden Pheasant is a brightly colored bird native to mountainous forest regions of China and parts of South Asia.",
+
+    "distribution": "Eastern and Southern China, parts of South Asia",
+
+    "habitat": "Mountain forests",
+
+    "breeding": {
+      "season": "April to June",
+      "incubationPeriod": "25–26 days",
+      "clutchSize": "25–30 eggs (in captivity)"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/golden_pheasant_1.jpg"
+    ]
+  },
+
+  {
+    "id": "indian-peafowl",
+    "commonName": "Indian Peafowl",
+    "scientificName": "Pavo cristatus",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "The Indian Peafowl is a large and iconic bird native to the Indian subcontinent, well known for its vibrant plumage.",
+
+    "distribution": "Indo-Pak Subcontinent",
+
+    "habitat": "Dry lowland areas, open forests",
+
+    "breeding": {
+      "season": "April to June",
+      "incubationPeriod": "28–30 days",
+      "clutchSize": "4–8 eggs"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/indian_peafowl_1.jpg"
+    ]
+  },
+
+  {
+    "id": "yellow-golden-pheasant",
+    "commonName": "Yellow Golden Pheasant",
+    "scientificName": "Chrysolophus pictus",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "The Yellow Golden Pheasant is a color morph of the Red Golden Pheasant, native to forested mountainous regions of Western China and commonly bred in captivity.",
+
+    "distribution": "Western China",
+
+    "habitat": "Forests and mountainous regions",
+
+    "breeding": {
+      "season": "From April",
+      "incubationPeriod": "22–23 days",
+      "clutchSize": "8–12 eggs"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/yellow_golden_pheasant_1.jpg"
+    ]
+  },
+
+  {
+    "id": "common-pheasant-leucistic",
+    "commonName": "Common Pheasant (White / Leucistic)",
+    "scientificName": "Phasianus colchicus",
+    "category": "Bird",
+    "group": "Aves",
+
+    "introduction": "The White or Leucistic Common Pheasant is a color variation of the Common Pheasant, widely distributed across Asia and Europe.",
+
+    "distribution": "Southeast Asia and mainland Europe",
+
+    "habitat": "Grasslands, agricultural fields",
+
+    "breeding": {
+      "season": "April to June",
+      "incubationPeriod": "22–27 days",
+      "clutchSize": "8–15 eggs (sometimes up to 18)"
+    },
+
+    "conservationStatus": {
+      "iucn": "Least Concern"
+    },
+
+    "images": [
+      "/images/birds/common_pheasant_white_1.jpg"
+    ]
+  },
+
+  {
+  "id": "green-pheasant",
+  "commonName": "Green Wood Pheasant",
+  "scientificName": "Lophura versicolor",
+  "category": "Bird",
+  "group": "Aves",
+
+  "introduction": "The Green Pheasant, also known as the Japanese Green Pheasant, is an omnivorous bird endemic to the Japanese archipelago.",
+
+  "distribution": "Japan (endemic)",
+
+  "habitat": "Forests and grasslands",
+
+  "breeding": {
+    "season": "March to June",
+    "incubationPeriod": "25–30 days",
+    "clutchSize": "6–15 eggs"
+  },
+
+  "conservationStatus": {
+    "iucn": "Least Concern"
+  },
+
+  "images": [
+    "/images/birds/green_pheasant_1.jpg"
+  ]
+},
+
+{
+  "id": "common-leopard",
+  "commonName": "Common Leopard",
+  "scientificName": "Panthera pardus",
+  "category": "Mammal",
+  "group": "Mammalia",
+
+  "introduction": "The Common Leopard is a large carnivorous mammal known for its adaptability and wide geographic range.",
+
+  "distribution": "Sub-Saharan Africa, Western and Central Asia, Southern Russia, Indian Subcontinent, South and East Asia",
+
+  "habitat": "Forests, grasslands, mountains, and semi-deserts",
+
+  "breeding": {
+    "season": "January to February",
+    "gestationPeriod": "90–105 days",
+    "litterSize": "2–4 cubs"
+  },
+
+  "conservationStatus": {
+    "iucn": "Vulnerable"
+  },
+
+  "images": [
+    "/images/animals/common_leopard_1.jpg"
+  ]
+},
+
+{
+  "id": "rhesus-monkey",
+  "commonName": "Rhesus Monkey",
+  "scientificName": "Macaca mulatta",
+  "category": "Mammal",
+  "group": "Mammalia",
+
+  "introduction": "The Rhesus Monkey is an Old World monkey widely distributed across Asia and known for its adaptability.",
+
+  "distribution": "Afghanistan, Pakistan, India, Southeast Asia, China, and introduced populations in Florida",
+
+  "habitat": "Forests, urban areas, agricultural regions",
+
+  "breeding": {
+    "season": "October to March",
+    "litterSize": "1 infant"
+  },
+
+  "conservationStatus": {
+    "iucn": "Least Concern"
+  },
+
+  "images": [
+    "/images/animals/rhesus_monkey_1.jpg"
+  ]
+},
+
+{
+  "id": "golden-eagle",
+  "commonName": "Golden Eagle",
+  "scientificName": "Aquila chrysaetos",
+  "category": "Bird",
+  "group": "Aves",
+
+  "introduction": "The Golden Eagle is a large bird of prey found in mountainous and hilly regions.",
+
+  "distribution": "Northern Pakistan including Gilgit-Baltistan, Chitral, and parts of Khyber Pakhtunkhwa",
+
+  "habitat": "Mountains, cliffs, open landscapes",
+
+  "breeding": {
+    "incubationPeriod": "41–45 days",
+    "clutchSize": "1–3 eggs"
+  },
+
+  "conservationStatus": {
+    "iucn": "Least Concern"
+  },
+
+  "images": [
+    "/images/birds/golden_eagle_1.jpg"
+  ]
+},
+
+{
+  "id": "indian-vulture",
+  "commonName": "Indian Vulture",
+  "scientificName": "Gyps indicus",
+  "category": "Bird",
+  "group": "Aves",
+
+  "introduction": "The Indian Vulture is a large scavenging bird whose population has declined drastically in recent decades.",
+
+  "distribution": "Primarily southeastern Pakistan (Sindh and Punjab)",
+
+  "habitat": "Open plains, cliffs",
+
+  "breeding": {
+    "season": "November to March",
+    "incubationPeriod": "50–60 days",
+    "clutchSize": "1 egg"
+  },
+
+  "conservationStatus": {
+    "iucn": "Critically Endangered"
+  },
+
+  "images": [
+    "/images/birds/indian_vulture_1.jpg"
+  ]
+},
+
+{
+  "id": "long-legged-buzzard",
+  "commonName": "Long-legged Buzzard",
+  "scientificName": "Buteo rufinus",
+  "category": "Bird",
+  "group": "Aves",
+
+  "introduction": "The Long-legged Buzzard is a bird of prey commonly found in arid and semi-arid regions.",
+
+  "distribution": "Balochistan, Sindh, Punjab, and parts of Khyber Pakhtunkhwa",
+
+  "habitat": "Open plains, rocky outcrops, scrublands",
+
+  "breeding": {
+    "season": "March to May",
+    "incubationPeriod": "33–35 days",
+    "clutchSize": "2–4 eggs"
+  },
+
+  "conservationStatus": {
+    "iucn": "Least Concern"
+  },
+
+  "images": [
+    "/images/birds/long_legged_buzzard_1.jpg"
+  ]
+},
+
+{
+  "id": "peregrine-falcon",
+  "commonName": "Peregrine Falcon",
+  "scientificName": "Falco peregrinus",
+  "category": "Bird",
+  "group": "Aves",
+
+  "introduction": "The Peregrine Falcon is a cosmopolitan bird of prey known for its incredible speed.",
+
+  "distribution": "Worldwide",
+
+  "habitat": "Cliffs, open landscapes, urban areas",
+
+  "breeding": {
+    "incubationPeriod": "33–35 days",
+    "clutchSize": "3–4 eggs"
+  },
+
+  "conservationStatus": {
+    "iucn": "Least Concern"
+  },
+
+  "images": [
+    "/images/birds/peregrine_falcon_1.jpg"
+  ]
+},
+
+{
+  "id": "reeves-pheasant",
+  "commonName": "Reeves’s Pheasant",
+  "scientificName": "Syrmaticus reevesii",
+  "category": "Bird",
+  "group": "Aves",
+
+  "introduction": "Reeves’s Pheasant is endemic to temperate forests of China and parts of the Himalayan region.",
+
+  "distribution": "Central and Eastern China, Himalayan ranges",
+
+  "habitat": "Temperate evergreen and deciduous forests",
+
+  "breeding": {
+    "season": "April to May",
+    "incubationPeriod": "24–25 days",
+    "clutchSize": "7–14 eggs"
+  },
+
+  "conservationStatus": {
+    "iucn": "Vulnerable"
+  },
+
+  "images": [
+    "/images/birds/reeves_pheasant_1.jpg"
+  ]
+},
+
+{
+  "id": "red-jungle-fowl",
+  "commonName": "Red Jungle Fowl",
+  "scientificName": "Gallus gallus",
+  "category": "Bird",
+  "group": "Aves",
+
+  "introduction": "The Red Jungle Fowl is the wild ancestor of domestic chickens and is widely distributed across South and Southeast Asia.",
+
+  "distribution": "India, Nepal, Bangladesh, Southern China, Indochina, Malaysia, Philippines, Indonesia",
+
+  "habitat": "Forests, grasslands",
+
+  "breeding": {
+    "season": "March to May",
+    "incubationPeriod": "21 days",
+    "clutchSize": "3–7 eggs"
+  },
+
+  "conservationStatus": {
+    "iucn": "Least Concern"
+  },
+
+  "images": [
+    "/images/birds/red_jungle_fowl_1.jpg"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+  
+]
